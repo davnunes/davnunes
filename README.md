@@ -31,12 +31,12 @@ Prazer, meu nome é Davi 🙂. Sou um desenvolvedor Python 🐍 pronto para apre
 
 ## Follow me 🙈
 
-<a href="https://www.linkedin.com/in/davinunes-in/" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width:100%;">
-</a>&Tab;
-<a href="https://dev.to/davnunes">
+<a href="https://dev.to/davnunes" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Davi Nunes's DEV Profile" style="max-width:100%;">
 </a>&Tab;
-<a href="https://medium.com/@davinunes.in">
+<a href="https://www.linkedin.com/in/davinunes-in/" rel="nofollow" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width:100%;">
+</a>&Tab;
+<a href="https://medium.com/@davinunes.in" target="_blank">
   <img src="https://img.shields.io/badge/-MEDIUM-black?style=for-the-badge&logo=medium&logoColor=white" alt="Davi Nunes's DEV Profile" style="max-width:100%;">
 </a>&Tab;
