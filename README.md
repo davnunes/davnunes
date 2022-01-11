@@ -3,7 +3,7 @@
 
 ## E aí, galera! 👋👋 
 
-Prazer, meu nome é Davi 🙂. Sou um desenvolvedor Python 🐍, pronto para aprender cada vez mais. Sou graduando em Ciências da Computação 💻 pela Faculdade Lourenço Filho e possuo certificado de Técnico em Informática. Atualmente, estou focando no back-end, mas, também, pretendo desenvolver habilidades no front-end.
+Prazer, meu nome é Davi 🙂. Sou um desenvolvedor Python 🐍 pronto para aprender cada vez mais. Sou graduando em Ciências da Computação 💻 pela Faculdade Lourenço Filho e possuo certificado de Técnico em Informática. Atualmente, estou focando no back-end, contudo pretendo desenvolver mais habilidades no front-end.
 
 ## Skills 🥇🏅
 <!-- 
